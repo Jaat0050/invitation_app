@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "460151234667",
+    "firebase_url": "https://celebrare-b43da.firebaseio.com",
+    "project_id": "celebrare-b43da",
+    "storage_bucket": "celebrare-b43da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:d9d481a36d0e03ccd0112e",
+        "android_client_info": {
+          "package_name": "com.celebrare.hinduweddinginvitation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-6a4pgtiporo8htus99vnmk43u5sju6tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celebrare.hinduweddinginvitation",
+            "certificate_hash": "61bb717a4748ed56498510ffc54a45a3088ccdb9"
+          }
+        },
+        {
+          "client_id": "460151234667-s5lpfpop1covvqno167ucgbsg1lhob9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celebrare.hinduweddinginvitation",
+            "certificate_hash": "46a8f33a4785b632b5910b8237e9c655b60679f4"
+          }
+        },
+        {
+          "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460151234667-qo7jjani2urf3jfvuf3507ctllpjhl7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celebrare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:4a9f4da4dd80ce7dd0112e",
+        "android_client_info": {
+          "package_name": "com.celebrare.muslimweddinginvitation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-52bqmkupre4s38jp600q3686vepol7nc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celebrare.muslimweddinginvitation",
+            "certificate_hash": "adf22e656c1e602b89701a60abc35e9e34ab17a8"
+          }
+        },
+        {
+          "client_id": "460151234667-csfhamsm2g47m24g79lkram6ubk0jp36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celebrare.muslimweddinginvitation",
+            "certificate_hash": "d62ef00204a58f6750bcac146bc0c17bb1c4da2e"
+          }
+        },
+        {
+          "client_id": "460151234667-g6c6m3017p5ontpa893kgcb12hph3e81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celebrare.muslimweddinginvitation",
+            "certificate_hash": "ee608efef4c5027a1d001a24da3925ce9cfbae51"
+          }
+        },
+        {
+          "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460151234667-qo7jjani2urf3jfvuf3507ctllpjhl7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celebrare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:267e0bb5677d7c4dd0112e",
+        "android_client_info": {
+          "package_name": "com.celebrare.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460151234667-qo7jjani2urf3jfvuf3507ctllpjhl7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celebrare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:563a4a48d236db07d0112e",
+        "android_client_info": {
+          "package_name": "com.enjoy.celebrare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-8fli3ntj9uu4uqs9ogre6m6qukdhlr26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.celebrare",
+            "certificate_hash": "ebe798a24e45fa4691ee13e959c5fa0e6aa2e116"
+          }
+        },
+        {
+          "client_id": "460151234667-c7dp9s8njk5gpr652m040f7s2lsgteta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.celebrare",
+            "certificate_hash": "d62ef00204a58f6750bcac146bc0c17bb1c4da2e"
+          }
+        },
+        {
+          "client_id": "460151234667-u37vfegvrstjelq0s0ipgdjnq3eu6hca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.celebrare",
+            "certificate_hash": "86b950ac31d80668665cff471f7f01f25b498038"
+          }
+        },
+        {
+          "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460151234667-qo7jjani2urf3jfvuf3507ctllpjhl7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celebrare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:47c5288cedf543ded0112e",
+        "android_client_info": {
+          "package_name": "com.example.celebrare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-hgm095866cm3g1mi8dkprn9vflnq5nal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.celebrare",
+            "certificate_hash": "e66b5a8715e430d101d44674abc65cf49613ac3a"
+          }
+        },
+        {
+          "client_id": "460151234667-me7sn6gnl2r3ejs6hbt7dhrbbdot4tu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.celebrare",
+            "certificate_hash": "775baf3d6de435e12f78701a9d0e27919a30d48b"
+          }
+        },
+        {
+          "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-94ke3u9r11bt8gjr4s9k1u2rhna91avq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460151234667-qo7jjani2urf3jfvuf3507ctllpjhl7e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.celebrare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
