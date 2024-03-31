@@ -19,7 +19,9 @@ void main() async {
     // await Firebase.initializeApp();
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds",
+        // apiKey: "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds",
+
+        apiKey: "AIzaSyCDxKDwu7q_PV7n1kkkkJWghRt_dOPxB8TRcds",
         authDomain: "celebrare-b43da.firebaseapp.com",
         databaseURL: "https://celebrare-b43da.firebaseio.com",
         projectId: "celebrare-b43da",
